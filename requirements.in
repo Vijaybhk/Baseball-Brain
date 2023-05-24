@@ -1,0 +1,11 @@
+numpy
+Matplotlib
+pandas
+scikit-learn
+argparse
+plotly
+seaborn
+mariadb
+sqlalchemy
+# pyspark # Takes more time to install in docker, not needed!
+statsmodels
